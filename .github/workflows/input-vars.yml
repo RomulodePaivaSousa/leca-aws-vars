@@ -18,7 +18,7 @@ on:
         required: true
       cafe:
         type: boolean
-        description: Vamos tomar café
+        description: Vamos tomar café!!!
       ambiente:
         type: environment
       nuvem:
